@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JpJonker
-- 👀 I’m interested in Backend web developing
-- 🌱 I’m currently learning Backend with PHP
-- 📫 How to reach me at jpjonker.business@gmail.com
+- 👀 I’m interested in Full stack web development
+- 🌱 I'm currently learn MERN stack 
+- 📫 How to reach me at devjp2020@yahoo.com
 
 <!---
 JpJonker/JpJonker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
