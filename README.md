@@ -1,1 +1,1 @@
-Hi, I am Jp Jonker a self taught web developer looking to grow in my knowledge as a developer and bring value to people's lives.
+Hey, My name is Jp Jonker and I'm a self taught developer. I love the amount of things that you can learn in this field which will never stop growing. 
